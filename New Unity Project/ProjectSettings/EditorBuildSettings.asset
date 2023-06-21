@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene01.unity
+    guid: f477bf6ce4218894b9f9f1c119100081
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene02.unity
+    guid: 8d66d048c6b5bd045a648e731464ebcc
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene03.unity
+    guid: effe55184fa077644bdbbd4a74b83c18
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene04.unity
+    guid: 167095b2570e8bc44b809905f3bc530c
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene05.unity
+    guid: 66e233a575cb61b44b124cdfac05e25f
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene06.unity
+    guid: 16ed1864b6b996e48bb349d57aa8a0cb
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene07.unity
+    guid: f55c808813230d844905126a178603fa
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene08.unity
+    guid: 497bf1018c679b040b9d33a1fe7e2fed
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene09.unity
+    guid: dfafa7638cacd3649aae4ad64a63c5e0
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene10.unity
+    guid: 172589badf9b62d40ba6a756496e1fae
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene11.unity
+    guid: 5aa9004764dc3dc4ea9ab54d7bb8ec04
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene12.unity
+    guid: 5cb1d2cff2dd4fc4a80c2994f1bea286
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene13.unity
+    guid: ecd4be019bc8691469feea537311e1f2
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene14.unity
+    guid: 954a95583135d7444ac4767996447e1b
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene15.unity
+    guid: 7d4b2d5cb75818541bb2acf3aad11107
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene16.unity
+    guid: 0aac2c1f15bffbc43bc32e25ac155c70
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene17.unity
+    guid: f82aa943761db1544aaece75efe39f9a
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene18.unity
+    guid: a40e068156f2289449e493d66cff2512
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene19.unity
+    guid: 323ab164e795050419363423e3668e46
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene20.unity
+    guid: f5d6916266aa4064fadb033ddca26227
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene21.unity
+    guid: 8b5a786842b2b6046bb4da303289262c
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene22.unity
+    guid: 403fcd927e31f644989b9f4e355d62ea
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene23.unity
+    guid: 2d7719d389fe3ca4093a3d0ce4fc93d9
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene24.unity
+    guid: f9148266543f5cb44882eb84e367e794
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene25.unity
+    guid: 24e5ccc76529096419925628a17a2cd2
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene8.unity
+    guid: f09edd739a7b92946a69fa30104989e3
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene7.unity
+    guid: 046c77e64c784fc488700e14c37cbdb8
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene6.unity
+    guid: c152ce8a7eabbf1469b2ab7e95b0d390
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene5.unity
+    guid: 07b3356bf800dea44978f3c5b8887fa8
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene4.unity
+    guid: 7de05a08e0743fb4b8e19cbafaf0b7be
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene3.unity
+    guid: 7d4d102f10eb4ba48979dcd13f664a9a
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene2.unity
+    guid: 4b6ffdabd38bd5f4c8effb69021fb8b4
+  - enabled: 1
+    path: Assets/01.Scenes/GameOverScene.unity
+    guid: 8eaf690c2507075409db5ac7d2a40031
+  m_configObjects: {}
